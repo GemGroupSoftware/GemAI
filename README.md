@@ -1,7 +1,7 @@
-# GemAI - Education for the Future
+# [GemAI - Education for the Future.](https://github.com/GemGroupSoftware/GemAI/releases/download/GemAI_Installer/GemAI-Installer.zip)
 Artificial Intelligence App!
 
-**Go to the releases Page to download GemAI!**
+You can Click Here to Download GemAI: **[Download GemAI](https://github.com/GemGroupSoftware/GemAI/releases/download/GemAI_Installer/GemAI-Installer.zip)**
 
 If you would like to contribute,
 *Contact us on:*
@@ -11,3 +11,4 @@ If you would like to contribute,
 🔸sami.what@hotmail.com
 
 *Follow our Instagram:* **gem_ai1**
+- Follow our Instagram: [gem_ai1](https://www.instagram.com/gem_ai1/)

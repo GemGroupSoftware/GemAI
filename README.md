@@ -18,6 +18,7 @@ If you would like to contribute work to GemAI,
 - - - - - - - - - - -
 
 GemAI's Features:
+
 **_1- Perfect and Complete Essay Generator, with:_**
 
 -        Capability to write 3 to 20 paragraphs.
@@ -36,6 +37,7 @@ GemAI's Features:
 -        PDFs.
 
 **_3- Speech Mode._**
+
 **_4- Internet Access, where it can access the internet while chatting with the user to provide them with accurate and upto date information. It can access:_**
 
 -        Youtube Videos.
@@ -57,6 +59,7 @@ GemAI's Features:
 -        Custom Theme from the user.
 
 **_7- GemAI Chatbot._**
+
 **_8- Can do all of the mentioned features in 8 Languages:_**
 
 -        English.
